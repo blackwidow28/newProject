@@ -1,5 +1,5 @@
 const greeting = (name) => {
-  console.log(`Hello wonderful ${name}, welcome to my repository!`)
+  console.log(`Hello wonderful ${name}, welcome to BlackWidow's wicked repository!`)
 };
 
 
